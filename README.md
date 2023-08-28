@@ -33,7 +33,6 @@ Open a terminal in the location of setup.py.
 Enter the following command:
 
 bash
-Copy code
 $ python setup.py build
 Contributing
 Contributions are welcome! If you want to contribute to this project, please follow these steps:
